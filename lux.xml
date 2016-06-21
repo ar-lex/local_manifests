@@ -6,7 +6,7 @@
 		name="CyanogenMod/android_device_motorola_msm8916-common"
 		revision="cm-13.0" />
 	<project path="kernel/motorola/msm8916"
-		name="CyanogenMod/android_kernel_motorola_msm8916"
+		name="ar-lex/android_kernel_motorola_msm8916"
 		revision="cm-13.0" />
 	<project path="external/bson"
 		name="CyanogenMod/android_external_bson"
