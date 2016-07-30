@@ -20,6 +20,9 @@
         <project path="device/qcom/common"
                 name="CyanogenMod/android_device_qcom_common"
                 revision="cm-13.0" />
+	<project path="vendor/motorola"
+		name="TheMuppets/proprietary_vendor_motorola"
+		revision="cm-13.0" />
 	<project path="rpm/"
 		name="ar-lex/droid-hal-lux"
 		revision="master" />
