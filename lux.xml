@@ -1,0 +1,26 @@
+<manifest>
+	<project path="device/motorola/lux"
+		name="sultanqasim/android_device_motorola_lux"
+		revision="cm-12.1" />
+	<project path="kernel/motorola/msm8916"
+		name="ar-lex/android_kernel_motorola_msm8916-squid"
+		revision="lux" />
+	<project path="external/mm-dash"
+		name="CyanogenMod/android_external_mm-dash"
+		revision="cm-12.1" />
+	<project path="device/qcom/common"
+		name="CyanogenMod/android_device_qcom_common"
+		revision="cm-12.1" />
+	<project path="vendor/motorola/lux"
+		name="sultanqasim/android_vendor_motorola_lux"
+		revision="cm-12.1" />
+	<project path="rpm/"
+		name="ar-lex/droid-hal-lux"
+		revision="master" />
+	<project path="hybris/droid-configs"
+		name="ar-lex/droid-config-lux"
+		revision="master" />
+	<project path="hybris/droid-hal-version-lux"
+		name="ar-lex/droid-hal-version-lux"
+		revision="master" />
+</manifest>
